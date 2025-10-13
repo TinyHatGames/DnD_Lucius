@@ -171,6 +171,9 @@
   },
   "active": "dad382c31f93caef",
   "lastOpenFiles": [
+    "PNJ/Lionel_Giordano.md",
+    "PNJ/Glatisbel.md",
+    "PNJ/Lucius_Bonnefoi.md",
     "scripts/normalize_frontmatter.py",
     "scripts/normalize_frontmatter.txt",
     "scripts/normalizeformatter.txt",
@@ -183,11 +186,8 @@
     "PNJ/Rodrick.md",
     "PNJ/Vittoria.md",
     "PNJ/Tullio_et_Lena.md",
-    "PNJ/Lionel_Giordano.md",
-    "PNJ/Glatisbel.md",
     "PNJ/Genevieve_Beaulieu.md",
     "PNJ/Duc_Canni.md",
-    "PNJ/Lucius_Bonnefoi.md",
     "Factions/Conclave_de_Fongenoir.md",
     "Factions/Veilleurs_de_Lithanor.md",
     "Factions/Royaume_de_Steintor.md",
@@ -210,7 +210,6 @@
     "Images/Rodrick.png",
     "Images/Sceau_de_Glastisbel.png",
     "Images/Glatisbel.png",
-    "Images",
-    "Lieux/Outreterre"
+    "Images"
   ]
 }
