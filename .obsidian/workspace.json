@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PNJ/Lucius_Bonnefoi.md",
+                "file": "Factions/Conclave_de_Fongenoir.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lucius_Bonnefoi"
+              "title": "Conclave_de_Fongenoir"
             }
           }
         ]
@@ -171,8 +171,23 @@
   },
   "active": "dad382c31f93caef",
   "lastOpenFiles": [
+    "Factions/Veilleurs_de_Lithanor.md",
+    "Factions/Royaume_de_Steintor.md",
+    "Factions/Royaume_Altave.md",
     "PNJ/Lionel_Giordano.md",
     "PNJ/Lucius_Bonnefoi.md",
+    "PNJ/Rodrick.md",
+    "PNJ/Vittoria.md",
+    "PNJ/Tullio_et_Lena.md",
+    "PNJ/Glatisbel.md",
+    "PNJ/Duc_Canni.md",
+    "PNJ/Genevieve_Beaulieu.md",
+    "Résumé/La_Corruption_de_Fongenoir.md",
+    "Objets/Larmes_de_l_Ombre.md",
+    "Lieux/Chambre_des_Murmures.md",
+    "Lieux/Fongenoir.md",
+    "Factions/Conclave_de_Fongenoir.md",
+    "Bestiaire/Abomination_de_Seve.md",
     "Idées.md",
     "fongenoir.patch",
     "fongenoir.txt",
@@ -184,28 +199,13 @@
     "Objets/Pièces_Maudites.md",
     "Objets/Poussière_dOr_Démoniaque.md",
     "Objets/Souffrelume.md",
-    "PNJ/Duc_Canni.md",
     "Images/Duc_Canni.png",
     "Images/Lucius.webp",
     "Factions/Duché_de_Serravalle.md",
-    "Bestiaire/Chèvres_Géantes.md",
-    "Factions/Royaume_Altave.md",
-    "Lieux/Vallée_Verte.md",
     "Images/Rodrick.png",
-    "PNJ/Rodrick.md",
     "Images/Sceau_de_Glastisbel.png",
     "Images/Glatisbel.png",
     "Images",
-    "PNJ/Glatisbel.md",
-    "Résumé/02_Basseroche.md",
-    "Résumé/01_Préambule.md",
-    "Résumé/00_Introduction.md",
-    "Lieux/Outreterre/Fongenoir.md",
-    "Lieux/Outreterre",
-    "PNJ/Tullio_et_Lena.md",
-    "PNJ/Vittoria.md",
-    "Bestiaire/Glatisbel_Aspect_Démoniaque.md",
-    "Bestiaire/Gardiens_du_Pacte.md",
-    "Lieux/Steintor.md"
+    "Lieux/Outreterre"
   ]
 }
