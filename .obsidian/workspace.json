@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Objets/Larmes_de_l_Ombre.md",
+                "file": "PNJ/Lucius_Bonnefoi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Larmes_de_l_Ombre"
+              "title": "Lucius_Bonnefoi"
             }
           }
         ]
@@ -171,6 +171,13 @@
   },
   "active": "dad382c31f93caef",
   "lastOpenFiles": [
+    "scripts/normalize_frontmatter.py",
+    "scripts/normalize_frontmatter.txt",
+    "scripts/normalizeformatter.txt",
+    "scripts/New Text Document.txt",
+    "scripts",
+    "New folder",
+    "Objets/Larmes_de_l_Ombre.md",
     "Objets/Pièce_de_Glatisbel.md",
     "Objets/Pièces_Maudites.md",
     "PNJ/Rodrick.md",
@@ -186,7 +193,6 @@
     "Factions/Royaume_de_Steintor.md",
     "Factions/Royaume_Altave.md",
     "Résumé/La_Corruption_de_Fongenoir.md",
-    "Objets/Larmes_de_l_Ombre.md",
     "Lieux/Chambre_des_Murmures.md",
     "Lieux/Fongenoir.md",
     "Bestiaire/Abomination_de_Seve.md",
@@ -201,7 +207,6 @@
     "Objets/Souffrelume.md",
     "Images/Duc_Canni.png",
     "Images/Lucius.webp",
-    "Factions/Duché_de_Serravalle.md",
     "Images/Rodrick.png",
     "Images/Sceau_de_Glastisbel.png",
     "Images/Glatisbel.png",
