@@ -1,21 +1,14 @@
 ---
 type: pnj
-name: "Geneviève Beaulieu"
+name: Geneviève Beaulieu
 tags:
   - pnj
   - fongenoir
   - erudit
 allegeance: ambigue
-liens:
-  lieux:
-    - '[[Lieux/Chambre_des_Murmures]]'
-    - '[[Lieux/Fongenoir]]'
-  personnes:
-    - '[[PNJ/Lucius_Bonnefoi]]'
-    - '[[PNJ/Lionel_Giordano]]'
 importance: majeur
+test: Chambres des Murmures
 ---
-
 # Geneviève Beaulieu
 
 ## Aperçu
@@ -28,3 +21,7 @@ Savant·e des traditions souterraines. Connaît des rites d’endormissement des
 ## Accroches
 - Offre une traduction partielle d’inscriptions.
 - Met en garde contre l’**assimilation** de sève.
+
+## Liens
+- Lieux : [[Lieux/Chambre_des_Murmures]], [[Lieux/Fongenoir]]
+- PNJ : [[PNJ/Lucius_Bonnefoi]], [[PNJ/Lionel_Giordano]]

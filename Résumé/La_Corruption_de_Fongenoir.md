@@ -6,20 +6,6 @@ tags:
   - resume
   - fongenoir
 status: en-cours
-liens:
-  pnjs:
-    - '[[PNJ/Lucius_Bonnefoi]]'
-    - '[[PNJ/Genevieve_Beaulieu]]'
-    - '[[PNJ/Lionel_Giordano]]'
-  lieux:
-    - '[[Lieux/Fongenoir]]'
-    - '[[Lieux/Chambre_des_Murmures]]'
-  factions:
-    - '[[Factions/Conclave_de_Fongenoir]]'
-  objets:
-    - '[[Objets/Larmes_de_l_Ombre]]'
-  bestiaire:
-    - '[[Bestiaire/Abomination_de_Seve]]'
 ---
 
 # La Corruption de Fongenoir
@@ -52,3 +38,10 @@ Un suintement ancien s’éveille sous la cité de **Fongenoir** : une sève n
 - Purification de quartiers → dette envers le Conclave.
 - Victoire amère → la Chambre reste “ouverte”.
 - Compromis → la sève devient un pacte.
+
+## Liens
+- PNJ : [[PNJ/Lucius_Bonnefoi]], [[PNJ/Genevieve_Beaulieu]], [[PNJ/Lionel_Giordano]]
+- Lieux : [[Lieux/Fongenoir]], [[Lieux/Chambre_des_Murmures]]
+- Factions : [[Factions/Conclave_de_Fongenoir]]
+- Objets : [[Objets/Larmes_de_l_Ombre]]
+- Bestiaire : [[Bestiaire/Abomination_de_Seve]]

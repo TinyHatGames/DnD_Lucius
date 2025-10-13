@@ -1,3 +1,11 @@
+---
+type: faction
+name: "Empire Solari"
+tags:
+  - faction
+  - solari
+---
+
 # Empire Solari
 
 > “L’or était leur lumière, la chute fut leur crépuscule.”
@@ -17,3 +25,6 @@ Son influence s’étendait des montagnes de Steintor jusqu’à la mer du Sud.
 - Excès de richesse et corruption.  
 - Guerres internes entre nobles.  
 - Apparition des premiers démons du commerce, dont [[../PNJ/Glatisbel|Glatisbel]].
+
+## Liens
+- PNJ : [[PNJ/Glatisbel]]

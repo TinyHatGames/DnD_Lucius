@@ -6,11 +6,6 @@ tags:
   - donjon
   - relique
 danger: eleve
-liens:
-  ville:
-    - '[[Lieux/Fongenoir]]'
-  objets:
-    - '[[Objets/Larmes_de_l_Ombre]]'
 ---
 
 # Chambre des Murmures
@@ -24,3 +19,7 @@ Anfractuosité résonante. Les parois absorbent le son et le renvoient comme des
 
 ## Récompenses
 - Indices majeurs sur l’origine de la corruption.
+
+## Liens
+- Lieux : [[Lieux/Fongenoir]]
+- Objets : [[Objets/Larmes_de_l_Ombre]]

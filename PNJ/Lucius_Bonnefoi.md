@@ -1,22 +1,15 @@
 ---
-type: pnj
-name: "Lucius Bonnefoi"
+type: joueur
+name: Lucius Bonnefoi
 tags:
-  - pnj
   - fongenoir
   - campagne
-allegeance: neutre-bien
-liens:
-  lieux:
-    - '[[Lieux/Fongenoir]]'
-  personnes:
-    - '[[PNJ/Genevieve_Beaulieu]]'
-    - '[[PNJ/Lionel_Giordano]]'
+allegeance: neutre
 importance: majeur
 ---
-
 # Lucius Bonnefoi
 
+![[Lucius.webp]]
 ## Aperçu
 Investigateur consciencieux, méthodique, à la réputation d’intégrité inflexible. Sert souvent de point d’entrée “rassurant” pour les PJ.
 
@@ -29,3 +22,7 @@ Investigateur consciencieux, méthodique, à la réputation d’intégrité infl
 ## Accroches
 - Recrute les PJ pour des disparitions répétées.
 - Possède des relevés cartographiques menant vers [[Lieux/Chambre_des_Murmures]].
+
+## Liens
+- Lieux : [[Lieux/Fongenoir]]
+- PNJ : [[PNJ/Genevieve_Beaulieu]], [[PNJ/Lionel_Giordano]]

@@ -1,3 +1,12 @@
+---
+type: lieu
+name: "Basseroche"
+tags:
+  - lieu
+  - basseroche
+danger: eleve
+---
+
 # Basseroche
 
 > “L’or ne brille jamais autant que sur les tombes.”
@@ -50,3 +59,8 @@ La cité est aujourd’hui **figée dans un pacte démoniaque** : ses habitants,
 - Lieu de révélation de **Glatisbel** et du **pacte de l’or**.  
 - La **Fontaine du Forum** lie les âmes à leurs vœux.  
 - Passage vers [[../Lieux/Vallée_Verte|la Vallée Verte]] après le départ du démon.
+
+## Liens
+- PNJ : [[PNJ/Glatisbel]]
+- Bestiaire : [[Bestiaire/Gardiens_du_Pacte]]
+- Objets : [[Objets/Pièces_Maudites]], [[Objets/Pièce_de_Glatisbel]], [[Objets/Amulette_du_Sang_Froid]]

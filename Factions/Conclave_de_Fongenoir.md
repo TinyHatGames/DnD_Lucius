@@ -11,9 +11,6 @@ ressources:
   - Milice de cavernes
   - Reseau d'informateurs
   - Scelles rituels
-liens:
-  ville:
-    - '[[Lieux/Fongenoir]]'
 ---
 
 # Conclave de Fongenoir
@@ -23,3 +20,6 @@ liens:
 
 ## Conflits
 - Rivalités internes autour de l’usage des reliques.
+
+## Liens
+- Lieux : [[Lieux/Fongenoir]]

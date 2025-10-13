@@ -1,3 +1,13 @@
+---
+type: pnj
+name: "Rodrick"
+tags:
+  - pnj
+  - vallee-verte
+allegeance: veilleurs
+portrait: "Images/Rodrick.png"
+importance: majeur
+---
 # Rodrick
 
 > “Protéger la vie, même quand elle se cache sous la pierre.”
@@ -17,3 +27,8 @@ Autrefois envoyé pour surveiller [[../Lieux/Basseroche|Basseroche]], il échoua
 ## Relations
 - [[../PNJ/Lucius_Bonnefoi|Lucius]] : voit en lui un héritier spirituel.  
 - [[../Factions/Veilleurs_de_Lithanor|Veilleurs]] : refuse de retourner parmi eux, mais reste fidèle à leur idéal.
+
+## Liens
+- Lieux : [[Lieux/Vallée_Verte]], [[Lieux/Basseroche]]
+- Factions : [[Factions/Veilleurs_de_Lithanor]]
+- PNJ : [[PNJ/Lucius_Bonnefoi]]

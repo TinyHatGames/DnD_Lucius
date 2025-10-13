@@ -1,3 +1,11 @@
+---
+type: faction
+name: "Royaume Altave"
+tags:
+  - faction
+  - altave
+---
+
 # Royaume Altave
 
 > “Un royaume divisé n’est plus qu’un souvenir doré.”
@@ -12,3 +20,6 @@ Dissous depuis un siècle après la mort de ses héritiers, il s’est morcelé 
 
 ## Héritiers supposés
 Certains prétendants affirment descendre de la lignée royale, mais aucun n’a pu le prouver.
+
+## Liens
+- Factions : [[Factions/Empire_Solari]]

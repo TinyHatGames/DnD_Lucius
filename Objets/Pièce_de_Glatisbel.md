@@ -1,3 +1,11 @@
+---
+type: objet
+name: "Pièce de Glatisbel"
+tags:
+  - objet
+  - basseroche
+---
+
 # Pièce de Glatisbel
 
 > “L’or n’oublie jamais son maître.”
@@ -10,3 +18,7 @@ Objet à double tranchant, symbole du pacte démoniaque.
 ## Effet
 - 1x/jour : permet de lancer *Détection de la magie* ou *Compréhension des langues*.  
 - À chaque utilisation, Glatisbel sait que la pièce a servi.
+
+## Liens
+- Lieux : [[Lieux/Basseroche]]
+- PNJ : [[PNJ/Glatisbel]]

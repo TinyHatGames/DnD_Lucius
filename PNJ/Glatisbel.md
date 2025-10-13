@@ -1,3 +1,14 @@
+---
+type: pnj
+name: "Glatisbel"
+tags:
+  - pnj
+  - demon
+  - basseroche
+allegeance: infernal
+portrait: "Images/Glatisbel.png"
+importance: majeur
+---
 # Glatisbel
 
 > “Le temps, c’est de l’argent — et l’éternité, un bon placement.”
@@ -15,3 +26,8 @@ Démon mineur issu des plans infernaux, se présentant sous la forme d’un él�
 ## Relations
 - [[../PNJ/Lucius_Bonnefoi|Lucius]] : le voit comme un futur client.  
 - [[../Lieux/Basseroche|Basseroche]] : sa création, son chef-d’œuvre maudit.
+
+## Liens
+- Lieux : [[Lieux/Basseroche]]
+- PNJ : [[PNJ/Lucius_Bonnefoi]]
+- Bestiaire : [[Bestiaire/Glatisbel_Aspect_Démoniaque]]

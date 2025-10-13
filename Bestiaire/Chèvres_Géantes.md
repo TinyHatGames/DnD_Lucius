@@ -1,3 +1,11 @@
+---
+type: creature
+name: "Chèvres Géantes"
+tags:
+  - bestiaire
+  - vallee-verte
+---
+
 # Chèvres Géantes de la Vallée Verte
 
 > “Elles montent les falaises mieux que les prières n’atteignent le ciel.”
@@ -16,3 +24,6 @@ Utilisées à la fois pour le transport, la garde et les compétitions du festiv
 - Prix : 60 po  
 - Selle adaptée : 5 po  
 - Dressage possible avec un jet d’Animal Handling (DD 12).
+
+## Liens
+- Lieux : [[Lieux/Vallée_Verte]]

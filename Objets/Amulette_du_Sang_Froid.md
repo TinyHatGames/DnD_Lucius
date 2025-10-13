@@ -1,3 +1,11 @@
+---
+type: objet
+name: "Amulette du Sang-Froid"
+tags:
+  - objet
+  - basseroche
+---
+
 # Amulette du Sang-Froid
 
 > “La patience du roc, le calme du sang.”
@@ -8,3 +16,6 @@ Protège son porteur de la panique et des effets de peur.
 ## Effet
 - Avantage aux jets de sauvegarde contre la peur.  
 - Si portée pendant un repos long, confère +1 en Sagesse jusqu’au lever du soleil.
+
+## Liens
+- Lieux : [[Lieux/Basseroche]]

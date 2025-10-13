@@ -1,3 +1,11 @@
+---
+type: faction
+name: "Duché de Serravalle"
+tags:
+  - faction
+  - serravalle
+---
+
 # Duché de Serravalle
 
 > “Sous le vent et la pierre, le loup veille.”
@@ -18,3 +26,8 @@ Les paysans de Serravalle sont réputés pour leur droiture, leur vin et leurs m
 ## Alliances et tensions
 - Neutre envers [[../Factions/Royaume_Altave|l’ancien royaume]].  
 - En conflit larvé avec la **Baronnie de Rocaverna**.
+
+## Liens
+- PNJ : [[PNJ/Duc_Canni]]
+- Lieux : [[Lieux/Vallée_Verte]]
+- Factions : [[Factions/Royaume_de_Steintor]]

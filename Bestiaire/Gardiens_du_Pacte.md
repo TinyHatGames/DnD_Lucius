@@ -1,3 +1,11 @@
+---
+type: creature
+name: "Gardiens du Pacte"
+tags:
+  - bestiaire
+  - basseroche
+---
+
 # Gardiens du Pacte
 
 > “Quand l’or saigne, leur maître sourit.”
@@ -16,3 +24,7 @@ Ils apparaissent pour punir ceux qui profanent ses biens ou volent son or.
 - Fragments de métal infernal  
 - Poussière d’Or Démoniaque  
 - 1d4 pièces maudites
+
+## Liens
+- PNJ : [[PNJ/Glatisbel]]
+- Lieux : [[Lieux/Basseroche]]

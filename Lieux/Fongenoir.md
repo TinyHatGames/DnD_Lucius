@@ -9,11 +9,6 @@ districts:
   - Vieille-Halle
   - Cryptes-basses
   - Terrasses myceliennes
-liens:
-  factions:
-    - '[[Factions/Conclave_de_Fongenoir]]'
-  lieux:
-    - '[[Lieux/Chambre_des_Murmures]]'
 ---
 
 # Fongenoir
@@ -28,3 +23,8 @@ Ville troglodyte bâtie sur d’antiques cavités. Commerce de spores, alcools d
 
 ## Menaces
 - Filaments sous les dalles, hallucinations auditives au crépuscule.
+
+## Liens
+- Factions : [[Factions/Conclave_de_Fongenoir]]
+- Lieux : [[Lieux/Chambre_des_Murmures]]
+- PNJ : [[PNJ/Lucius_Bonnefoi]], [[PNJ/Genevieve_Beaulieu]]

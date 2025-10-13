@@ -1,3 +1,11 @@
+---
+type: faction
+name: "Veilleurs de Lithanor"
+tags:
+  - faction
+  - druides
+---
+
 # Veilleurs de Lithanor
 
 > “Tant qu’une graine germera quelque part, le serment vivra.”
@@ -24,3 +32,7 @@ Ils refusent la violence, sauf pour protéger le cycle naturel. Chaque veilleur 
 - [[../Lieux/Vallée_Verte|Vallée Verte]]  
 - [[../Lieux/Steintor|Steintor]]  
 - Les **Bois de Lithanor**, sanctuaire caché au cœur des montagnes.
+
+## Liens
+- PNJ : [[PNJ/Rodrick]]
+- Lieux : [[Lieux/Vallée_Verte]], [[Lieux/Steintor]]

@@ -1,3 +1,11 @@
+---
+type: lieu
+name: "Vallée Verte"
+tags:
+  - lieu
+  - vallee-verte
+---
+
 # Vallée Verte
 
 > “Sous le soleil de la vallée, chaque feuille a un secret.”
@@ -53,4 +61,8 @@ La vallée est protégée par le druide **Rodrick**, membre des [[../Factions/Ve
 - Rencontre avec [[../PNJ/Rodrick|Rodrick]], ancien veilleur.  
 - Permet d’obtenir l’aide des [[../Factions/Veilleurs_de_Lithanor|Veilleurs de Lithanor]].  
 - Transition naturelle vers [[../Lieux/Steintor|Steintor]] pour la suite de la quête.
+
+## Liens
+- PNJ : [[PNJ/Rodrick]], [[PNJ/Duc_Canni]], [[PNJ/Vittoria]], [[PNJ/Tullio_et_Lena]]
+- Factions : [[Factions/Veilleurs_de_Lithanor]]
 

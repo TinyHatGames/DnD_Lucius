@@ -1,3 +1,11 @@
+---
+type: objet
+name: "Souffrelume"
+tags:
+  - objet
+  - vallee-verte
+---
+
 # Souffrelume
 
 > “La lumière qui guérit brûle d’abord.”
@@ -13,3 +21,6 @@ On la trouve dans les sous‑bois humides de la [[../Lieux/Vallée_Verte|Vallée
 ## Récolte
 - Rare et fragile : nécessite un jet de Nature (DD 13).  
 - Flétrit si exposée au soleil direct plus de 2 heures.
+
+## Liens
+- Lieux : [[Lieux/Vallée_Verte]]

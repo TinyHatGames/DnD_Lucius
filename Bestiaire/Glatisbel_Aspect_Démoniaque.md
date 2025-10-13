@@ -1,3 +1,11 @@
+---
+type: creature
+name: "Glatisbel — Aspect Démoniaque"
+tags:
+  - bestiaire
+  - demon
+---
+
 # Glatisbel — Aspect Démoniaque
 
 > “Le Banquier du Néant n’investit jamais à perte.”
@@ -14,3 +22,6 @@ Lorsqu’il se manifeste pleinement, Glatisbel prend une forme titanesque : silh
 ## Faiblesses
 - Incapable de blesser un innocent sans pacte préalable.  
 - Sa puissance dépend du nombre d’âmes liées à son or.
+
+## Liens
+- PNJ : [[PNJ/Glatisbel]]
