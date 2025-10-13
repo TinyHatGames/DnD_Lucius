@@ -1,16 +1,24 @@
+---
+type: pnj
+name: "Lionel Giordano"
+tags:
+  - pnj
+  - fongenoir
+  - soldat
+allegeance: Conclave
+liens:
+  factions:
+    - '[[Factions/Conclave_de_Fongenoir]]'
+  lieux:
+    - '[[Lieux/Fongenoir]]'
+importance: secondaire
+---
+
 # Lionel Giordano
 
-> “Le mensonge est une langue que je parle mieux que la vérité.”
+## Aperçu
+Officier de terrain, loyal mais partagé entre obéir et protéger les civils. Bon levier pour l’accès sécurisé aux zones scellées.
 
-Duergar exilé, autrefois soldat et artisan. A fui les souterrains pour échapper à son passé et chercher la lumière. Malgré sa force, c’est un être en quête de rédemption.
-
-## Traits
-- Race : Duergar  
-- Classe : Guerrier  
-- Alignement : Chaotique neutre  
-- Traits : Fier, protecteur, rancunier  
-- Arme fétiche : Hache double à manche court
-
-## Relations
-- [[../PNJ/Lucius_Bonnefoi|Lucius Bonnefoi]] : son compagnon d’exil.  
-- [[../PNJ/Glatisbel|Glatisbel]] : méprise la manipulation du démon.
+## Complications
+- Reçoit des ordres contradictoires du Conclave.
+- A perdu des proches dans les quartiers corrompus.

@@ -1,11 +1,18 @@
 ---
 type: pnj
 name: "Geneviève Beaulieu"
-tags: [pnj, fongenoir, érudit]
-allégeance: ambiguë
+tags:
+  - pnj
+  - fongenoir
+  - erudit
+allegeance: ambigue
 liens:
-  lieux: ["[[Lieux/Chambre_des_Murmures]]","[[Lieux/Fongenoir]]"]
-  personnes: ["[[PNJ/Lucius_Bonnefoi]]","[[PNJ/Lionel_Giordano]]"]
+  lieux:
+    - '[[Lieux/Chambre_des_Murmures]]'
+    - '[[Lieux/Fongenoir]]'
+  personnes:
+    - '[[PNJ/Lucius_Bonnefoi]]'
+    - '[[PNJ/Lionel_Giordano]]'
 importance: majeur
 ---
 

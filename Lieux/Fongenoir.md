@@ -1,11 +1,19 @@
 ---
 type: lieu
 name: "Fongenoir"
-tags: [lieu, ville, fongenoir]
-districts: ["Vieille-Halle","Cryptes-basses","Terrasses mycéliennes"]
+tags:
+  - lieu
+  - ville
+  - fongenoir
+districts:
+  - Vieille-Halle
+  - Cryptes-basses
+  - Terrasses myceliennes
 liens:
-  factions: ["[[Factions/Conclave_de_Fongenoir]]"]
-  lieux: ["[[Lieux/Chambre_des_Murmures]]"]
+  factions:
+    - '[[Factions/Conclave_de_Fongenoir]]'
+  lieux:
+    - '[[Lieux/Chambre_des_Murmures]]'
 ---
 
 # Fongenoir

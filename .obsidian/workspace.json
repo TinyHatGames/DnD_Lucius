@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Conclave_de_Fongenoir.md",
+                "file": "Objets/Larmes_de_l_Ombre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conclave_de_Fongenoir"
+              "title": "Larmes_de_l_Ombre"
             }
           }
         ]
@@ -171,22 +171,24 @@
   },
   "active": "dad382c31f93caef",
   "lastOpenFiles": [
-    "Factions/Veilleurs_de_Lithanor.md",
-    "Factions/Royaume_de_Steintor.md",
-    "Factions/Royaume_Altave.md",
-    "PNJ/Lionel_Giordano.md",
-    "PNJ/Lucius_Bonnefoi.md",
+    "Objets/Pièce_de_Glatisbel.md",
+    "Objets/Pièces_Maudites.md",
     "PNJ/Rodrick.md",
     "PNJ/Vittoria.md",
     "PNJ/Tullio_et_Lena.md",
+    "PNJ/Lionel_Giordano.md",
     "PNJ/Glatisbel.md",
-    "PNJ/Duc_Canni.md",
     "PNJ/Genevieve_Beaulieu.md",
+    "PNJ/Duc_Canni.md",
+    "PNJ/Lucius_Bonnefoi.md",
+    "Factions/Conclave_de_Fongenoir.md",
+    "Factions/Veilleurs_de_Lithanor.md",
+    "Factions/Royaume_de_Steintor.md",
+    "Factions/Royaume_Altave.md",
     "Résumé/La_Corruption_de_Fongenoir.md",
     "Objets/Larmes_de_l_Ombre.md",
     "Lieux/Chambre_des_Murmures.md",
     "Lieux/Fongenoir.md",
-    "Factions/Conclave_de_Fongenoir.md",
     "Bestiaire/Abomination_de_Seve.md",
     "Idées.md",
     "fongenoir.patch",
@@ -195,8 +197,6 @@
     "Lieux/Monteluce.md",
     "Lieux/Basseroche.md",
     "Objets/Amulette_du_Sang_Froid.md",
-    "Objets/Pièce_de_Glatisbel.md",
-    "Objets/Pièces_Maudites.md",
     "Objets/Poussière_dOr_Démoniaque.md",
     "Objets/Souffrelume.md",
     "Images/Duc_Canni.png",

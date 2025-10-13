@@ -1,19 +1,31 @@
+---
+type: pnj
+name: "Lucius Bonnefoi"
+tags:
+  - pnj
+  - fongenoir
+  - campagne
+allegeance: neutre-bien
+liens:
+  lieux:
+    - '[[Lieux/Fongenoir]]'
+  personnes:
+    - '[[PNJ/Genevieve_Beaulieu]]'
+    - '[[PNJ/Lionel_Giordano]]'
+importance: majeur
+---
+
 # Lucius Bonnefoi
 
-> “Le savoir est une arme aussi tranchante qu’une dague, mais mille fois plus dangereuse.”
+## Aperçu
+Investigateur consciencieux, méthodique, à la réputation d’intégrité inflexible. Sert souvent de point d’entrée “rassurant” pour les PJ.
 
-![[Lucius.webp]]
+## Traits & Motivations
+- **Traits** : posé, scrupuleux, observateur.
+- **Idéal** : vérité avant confort.
+- **Lien** : responsabilité envers la cité de [[Lieux/Fongenoir]].
+- **Faille** : tendance à sous-estimer le fanatisme.
 
-Érudit drow originaire de [[Fongenoir|Fongenoir]], Lucius Bonnefoi est un savant méthodique, passionné par les anciens textes de l’Empire Solari. Marié à Georgette, il vivait paisiblement jusqu’à ce qu’un étrange rat — en réalité [[../PNJ/Lionel_Giordano|Lionel Giordano]] — l’entraîne dans un mystère liant sa ville à la corruption démoniaque.
-
-## Traits
-- Race : Drow  
-- Classe : Roublard (Érudit)  
-- Alignement : Neutre bon  
-- Traits : Curieux, obstiné, sceptique du divin  
-- Motivation : sauver sa femme, comprendre la corruption et la briser
-
-## Relations
-- [[../PNJ/Lionel_Giordano|Lionel Giordano]] : compagnon de route méfiant mais loyal.  
-- [[../PNJ/Rodrick|Rodrick]] : mentor spirituel et allié de fortune.  
-- [[../PNJ/Glatisbel|Glatisbel]] : démon tentateur, désormais obsédé par lui.
+## Accroches
+- Recrute les PJ pour des disparitions répétées.
+- Possède des relevés cartographiques menant vers [[Lieux/Chambre_des_Murmures]].

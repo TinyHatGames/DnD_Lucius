@@ -1,19 +1,19 @@
 ---
 type: faction
-name: Conclave de Fongenoir
+name: "Conclave de Fongenoir"
 tags:
   - faction
   - fongenoir
 dirigeants:
-  - Triumvirat masqué
-but: Maintenir l’équilibre commercial et cultuel
+  - Triumvirat masque
+but: "Maintenir l'equilibre commercial et cultuel"
 ressources:
   - Milice de cavernes
-  - Réseau d’informateurs
-  - Scellés rituels
+  - Reseau d'informateurs
+  - Scelles rituels
 liens:
   ville:
-    - "[[Lieux/Fongenoir]]"
+    - '[[Lieux/Fongenoir]]'
 ---
 
 # Conclave de Fongenoir

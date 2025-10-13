@@ -1,11 +1,16 @@
 ---
 type: lieu
 name: "Chambre des Murmures"
-tags: [lieu, donjon, relique]
-danger: élevé
+tags:
+  - lieu
+  - donjon
+  - relique
+danger: eleve
 liens:
-  ville: ["[[Lieux/Fongenoir]]"]
-  objets: ["[[Objets/Larmes_de_l_Ombre]]"]
+  ville:
+    - '[[Lieux/Fongenoir]]'
+  objets:
+    - '[[Objets/Larmes_de_l_Ombre]]'
 ---
 
 # Chambre des Murmures

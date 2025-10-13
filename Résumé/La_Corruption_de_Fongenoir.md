@@ -1,22 +1,25 @@
 ---
 title: "La Corruption de Fongenoir"
 type: resume
-tags: [campagne, resume, fongenoir]
+tags:
+  - campagne
+  - resume
+  - fongenoir
 status: en-cours
 liens:
   pnjs:
-    - "[[PNJ/Lucius_Bonnefoi]]"
-    - "[[PNJ/Genevieve_Beaulieu]]"
-    - "[[PNJ/Lionel_Giordano]]"
+    - '[[PNJ/Lucius_Bonnefoi]]'
+    - '[[PNJ/Genevieve_Beaulieu]]'
+    - '[[PNJ/Lionel_Giordano]]'
   lieux:
-    - "[[Lieux/Fongenoir]]"
-    - "[[Lieux/Chambre_des_Murmures]]"
+    - '[[Lieux/Fongenoir]]'
+    - '[[Lieux/Chambre_des_Murmures]]'
   factions:
-    - "[[Factions/Conclave_de_Fongenoir]]"
+    - '[[Factions/Conclave_de_Fongenoir]]'
   objets:
-    - "[[Objets/Larmes_de_l_Ombre]]"
+    - '[[Objets/Larmes_de_l_Ombre]]'
   bestiaire:
-    - "[[Bestiaire/Abomination_de_Seve]]"
+    - '[[Bestiaire/Abomination_de_Seve]]'
 ---
 
 # La Corruption de Fongenoir
