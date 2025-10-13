@@ -1,0 +1,1 @@
+- [[Monteluce]] va brûler. Gros impact pour [[Lucius_Bonnefoi]] qui retrouve la plupart des villageois morts, gros callback, les ados jumeaux font partie des seuls survivants et deviennent des badass complets. [[Rodrick]] est dégouté, etc.
