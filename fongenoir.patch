@@ -1,0 +1,267 @@
+diff --git a/Résumé/La_Corruption_de_Fongenoir.md b/Résumé/La_Corruption_de_Fongenoir.md
+new file mode 100644
+index 0000000..f1e2d3c
+--- /dev/null
++++ b/Résumé/La_Corruption_de_Fongenoir.md
+@@ -0,0 +1,64 @@
++---
++title: "La Corruption de Fongenoir"
++type: resume
++tags: [campagne, resume, fongenoir]
++status: en-cours
++liens:
++  pnjs:
++    - "[[PNJ/Lucius_Bonnefoi]]"
++    - "[[PNJ/Genevieve_Beaulieu]]"
++    - "[[PNJ/Lionel_Giordano]]"
++  lieux:
++    - "[[Lieux/Fongenoir]]"
++    - "[[Lieux/Chambre_des_Murmures]]"
++  factions:
++    - "[[Factions/Conclave_de_Fongenoir]]"
++  objets:
++    - "[[Objets/Larmes_de_l_Ombre]]"
++  bestiaire:
++    - "[[Bestiaire/Abomination_de_Seve]]"
++---
++
++# La Corruption de Fongenoir
++
++## Pitch
++Un suintement ancien s’éveille sous la cité de **Fongenoir** : une sève noire, porteuse de chuchotements, infiltre les cryptes et les esprits. Les alliances vacillent, et les habitants disparaissent par vagues, comme happés par une mémoire enfouie.
++
++## Contexte
++- **Cité** : [[Lieux/Fongenoir]] — vieille place marchande, troc souterrain, réseaux de champignonnières.
++- **Pouvoirs** : [[Factions/Conclave_de_Fongenoir]] arbitre les cultes et monopoles de cavernes.
++- **Anomalie** : les **Larmes de l’Ombre** ([[Objets/Larmes_de_l_Ombre]]) résonnent avec la **Chambre des Murmures** ([[Lieux/Chambre_des_Murmures]]).
++
++## Menaces
++1. **Propagation** : spores et racines noircies créent des poches de folie.
++2. **Assimilation** : l’**Abomination de Sève** ([[Bestiaire/Abomination_de_Seve]]) fabrique des échos de personnes disparues.
++3. **Schisme** : le Conclave doute, les cultes s’arment.
++
++## Actes (suggestion)
++1. **Signes faibles** : disparitions, rumeurs, premiers filaments — entrée par [[PNJ/Lucius_Bonnefoi]].
++2. **Voix anciennes** : indices menant à [[Lieux/Chambre_des_Murmures]], rencontre avec [[PNJ/Genevieve_Beaulieu]].
++3. **Cœur de sève** : arbitrage avec [[Factions/Conclave_de_Fongenoir]], choix d’utiliser/détruire [[Objets/Larmes_de_l_Ombre]].
++4. **Exsudat final** : affrontement contre [[Bestiaire/Abomination_de_Seve]] ; conséquences durables pour la ville.
++
++## Hooks
++- Un convoi de mycélium “saigne” une sève noire.
++- Un chant étouffé est audible dans les caves à marée de spores.
++- Une relique se réveille au toucher : [[Objets/Larmes_de_l_Ombre]].
++
++## Conséquences possibles
++- Purification de quartiers → dette envers le Conclave.
++- Victoire amère → la Chambre reste “ouverte”.
++- Compromis → la sève devient un pacte.
+diff --git a/PNJ/Lucius_Bonnefoi.md b/PNJ/Lucius_Bonnefoi.md
+new file mode 100644
+index 0000000..f1e2d3c
+--- /dev/null
++++ b/PNJ/Lucius_Bonnefoi.md
+@@ -0,0 +1,35 @@
++---
++type: pnj
++name: "Lucius Bonnefoi"
++tags: [pnj, fongenoir, campagne]
++allégeance: neutre-bien
++liens:
++  lieux: ["[[Lieux/Fongenoir]]"]
++  personnes: ["[[PNJ/Genevieve_Beaulieu]]","[[PNJ/Lionel_Giordano]]"]
++portrait: ""
++importance: majeur
++---
++
++# Lucius Bonnefoi
++
++## Aperçu
++Investigateur consciencieux, méthodique, à la réputation d’intégrité inflexible. Sert souvent de point d’entrée “rassurant” pour les PJ.
++
++## Traits & Motivations
++- **Traits** : posé, scrupuleux, observateur.
++- **Idéal** : vérité avant confort.
++- **Lien** : responsabilité envers la cité de [[Lieux/Fongenoir]].
++- **Faille** : tendance à sous-estimer le fanatisme.
++
++## Accroches
++- Recrute les PJ pour des disparitions répétées.
++- Possède des relevés cartographiques menant vers [[Lieux/Chambre_des_Murmures]].
+diff --git a/PNJ/Genevieve_Beaulieu.md b/PNJ/Genevieve_Beaulieu.md
+new file mode 100644
+index 0000000..f1e2d3c
+--- /dev/null
++++ b/PNJ/Genevieve_Beaulieu.md
+@@ -0,0 +1,28 @@
++---
++type: pnj
++name: "Geneviève Beaulieu"
++tags: [pnj, fongenoir, érudit]
++allégeance: ambiguë
++liens:
++  lieux: ["[[Lieux/Chambre_des_Murmures]]","[[Lieux/Fongenoir]]"]
++  personnes: ["[[PNJ/Lucius_Bonnefoi]]","[[PNJ/Lionel_Giordano]]"]
++importance: majeur
++---
++
++# Geneviève Beaulieu
++
++## Aperçu
++Savant·e des traditions souterraines. Connaît des rites d’endormissement des reliques, mais cache un passé compromis avec les cultes.
++
++## Secrets
++- Entend parfois la **voix** de la Chambre (sauvegarde Sagesse pour résister).
++- Sait manipuler (temporairement) [[Objets/Larmes_de_l_Ombre]].
++
++## Accroches
++- Offre une traduction partielle d’inscriptions.
++- Met en garde contre l’**assimilation** de sève.
+diff --git a/PNJ/Lionel_Giordano.md b/PNJ/Lionel_Giordano.md
+new file mode 100644
+index 0000000..f1e2d3c
+--- /dev/null
++++ b/PNJ/Lionel_Giordano.md
+@@ -0,0 +1,24 @@
++---
++type: pnj
++name: "Lionel Giordano"
++tags: [pnj, fongenoir, soldat]
++allégeance: Conclave
++liens:
++  factions: ["[[Factions/Conclave_de_Fongenoir]]"]
++  lieux: ["[[Lieux/Fongenoir]]"]
++importance: secondaire
++---
++
++# Lionel Giordano
++
++## Aperçu
++Officier de terrain, loyal mais partagé entre obéir et protéger les civils. Bon levier pour l’accès sécurisé aux zones scellées.
++
++## Complications
++- Reçoit des ordres contradictoires du Conclave.
++- A perdu des proches dans les quartiers corrompus.
+diff --git a/Lieux/Fongenoir.md b/Lieux/Fongenoir.md
+new file mode 100644
+index 0000000..f1e2d3c
+--- /dev/null
++++ b/Lieux/Fongenoir.md
+@@ -0,0 +1,28 @@
++---
++type: lieu
++name: "Fongenoir"
++tags: [lieu, ville, fongenoir]
++districts: ["Vieille-Halle","Cryptes-basses","Terrasses mycéliennes"]
++liens:
++  factions: ["[[Factions/Conclave_de_Fongenoir]]"]
++  lieux: ["[[Lieux/Chambre_des_Murmures]]"]
++---
++
++# Fongenoir
++
++## Aperçu
++Ville troglodyte bâtie sur d’antiques cavités. Commerce de spores, alcools de champignons, pigments.
++
++## Points d’intérêt
++- **Vieille-Halle** : marché, rumeurs, relais d’aventuriers.
++- **Cryptes-basses** : écoulements de sève noire.
++- **Terrasses mycéliennes** : cultures, accès à des puits scellés.
++
++## Menaces
++- Filaments sous les dalles, hallucinations auditives au crépuscule.
+diff --git a/Lieux/Chambre_des_Murmures.md b/Lieux/Chambre_des_Murmures.md
+new file mode 100644
+index 0000000..f1e2d3c
+--- /dev/null
++++ b/Lieux/Chambre_des_Murmures.md
+@@ -0,0 +1,28 @@
++---
++type: lieu
++name: "Chambre des Murmures"
++tags: [lieu, donjon, relique]
++danger: élevé
++liens:
++  ville: ["[[Lieux/Fongenoir]]"]
++  objets: ["[[Objets/Larmes_de_l_Ombre]]"]
++---
++
++# Chambre des Murmures
++
++## Aperçu
++Anfractuosité résonante. Les parois absorbent le son et le renvoient comme des voix familières. Les inscriptions vibrent à l’approche des reliques.
++
++## Obstacles
++- Puits de sève semi-vivent (tests de CON périodiques).
++- Pièges acoustiques (désorientent, imposent Désavantage).
++
++## Récompenses
++- Indices majeurs sur l’origine de la corruption.
+diff --git a/Factions/Conclave_de_Fongenoir.md b/Factions/Conclave_de_Fongenoir.md
+new file mode 100644
+index 0000000..f1e2d3c
+--- /dev/null
++++ b/Factions/Conclave_de_Fongenoir.md
+@@ -0,0 +1,23 @@
++---
++type: faction
++name: "Conclave de Fongenoir"
++tags: [faction, fongenoir]
++dirigeants: ["Triumvirat masqué"]
++but: "Maintenir l’équilibre commercial et cultuel"
++ressources: ["Milice de cavernes","Réseau d’informateurs","Scellés rituels"]
++liens:
++  ville: ["[[Lieux/Fongenoir]]"]
++---
++
++# Conclave de Fongenoir
++
++## Tactiques
++- Achat du silence, quarantaines ciblées, usage parcimonieux de scellés.
++
++## Conflits
++- Rivalités internes autour de l’usage des reliques.
+diff --git a/Objets/Larmes_de_l_Ombre.md b/Objets/Larmes_de_l_Ombre.md
+new file mode 100644
+index 0000000..f1e2d3c
+--- /dev/null
++++ b/Objets/Larmes_de_l_Ombre.md
+@@ -0,0 +1,24 @@
++---
++type: objet
++name: "Larmes de l’Ombre"
++tags: [objet, relique, fongenoir]
++rareté: très-rare
++attunement: true
++effets:
++  - "Amplifie murmures (avantage aux jets d’Investigation liés aux inscriptions)."
++  - "Risque de corruption (sauvegardes Sagesse en fin de repos)."
++liens:
++  lieux: ["[[Lieux/Chambre_des_Murmures]]"]
++---
++
++# Larmes de l’Ombre
++
++Relique prismatique suintant de la sève noire lorsqu’on la réveille par un chant caverneux. Peut stabiliser un portail acoustique… ou l’ouvrir en grand.
+diff --git a/Bestiaire/Abomination_de_Seve.md b/Bestiaire/Abomination_de_Seve.md
+new file mode 100644
+index 0000000..f1e2d3c
+--- /dev/null
++++ b/Bestiaire/Abomination_de_Seve.md
+@@ -0,0 +1,22 @@
++---
++type: creature
++name: "Abomination de Sève"
++tags: [bestiaire, corruption, fongenoir]
++cr: variable
++traits:
++  - "Assimilation: copie en négatif la silhouette et la voix d’une victime."
++  - "Immunité: poison, charmé (si source = murmures)."
++faiblesses:
++  - "Vibrations dissonantes (désactivent sa régénération)."
++liens:
++  lieux: ["[[Lieux/Chambre_des_Murmures]]","[[Lieux/Fongenoir]]"]
++---
++
++# Abomination de Sève
++
++Créature agrégée de filaments et de sève noire, guidée par une mémoire collective fragmentée.
