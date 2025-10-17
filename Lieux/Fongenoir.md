@@ -10,9 +10,9 @@ districts:
   - Cryptes-basses
   - Terrasses myceliennes
 ---
-
 # Fongenoir
 
+![[Fongenoir.png]]
 ## Aperçu
 Ville troglodyte bâtie sur d’antiques cavités. Commerce de spores, alcools de champignons, pigments.
 
